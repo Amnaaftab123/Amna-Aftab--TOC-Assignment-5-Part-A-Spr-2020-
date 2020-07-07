@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Spawner_FfthAssignment",
+"productVersion": "0.1",
+"dataUrl": "Roll a ball game.data.unityweb",
+"wasmCodeUrl": "Roll a ball game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll a ball game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Roll a ball game.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.7f1"
+}
